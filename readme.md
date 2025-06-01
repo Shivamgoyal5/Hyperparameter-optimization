@@ -30,7 +30,7 @@ This project aims to compare two optimization techniques, Bayesian Optimization 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pulkit-Garg-01/AutoML_HyperParameterOptimiser
+   git clone https://github.com/Shivamgoyal5/Hyperparameter-optimization
    cd AutoML_HyperParameterOptimiser
    ```
 
